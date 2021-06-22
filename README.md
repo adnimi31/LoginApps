@@ -1,6 +1,8 @@
 LoginApps ini dibuat oleh AM
 Silahkan digunakan dengan gratis, mohon jagan hapus creditnya ini(readme.md, maupun readme.txt)
 
+github : https://github.com/adnimi31/LoginApps
+
 ===========================================================================
 
 spesifikasi:
