@@ -1,0 +1,26 @@
+.foto {
+  width: 45px;
+  height: 45px;
+  border-radius: 15px;
+}
+.fotopreview {
+  width: 120px;
+  height: 120px;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 60px;
+}
+.editfotopreview {
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+}
+.inputtolabel {
+  background: rgba(0, 0, 0, 0);
+  border: none;
+  width: 55px;
+}
+.inputtolabel2 {
+  background: rgba(0, 0, 0, 0);
+  border: none;
+  width: 80px;
+}
